@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "^5.2"
+        "illuminate/support": "^5.2",
+        "codesgo/ahsan-core": "dev"
     },
     "autoload": {
         "psr-4": {
